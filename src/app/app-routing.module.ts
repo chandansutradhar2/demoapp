@@ -3,6 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [
   //this is where path would appear in my project code
+  
 ];
 
 @NgModule({
