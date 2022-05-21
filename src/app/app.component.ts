@@ -8,4 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'demoapp';
   someMoreVar: boolean;
+  constructor() {
+    console.log('sample constructor');
+  }
 }
